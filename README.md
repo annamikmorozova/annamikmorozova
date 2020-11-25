@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi fellow engineers 👋
 
-<!--
-**annamikmorozova/annamikmorozova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🙋 I am Anna.
+- 🍎 🏙️ Based in NYC.
+- 👩‍🎓 St. John's University alumna of 2017(BS) and 2019(MS).
+- 🧑‍💻 The Grace Hopper, Fullstack Academy alumna of 2020.
+- 🎾 Former professional and Division I tennis player.
+- 🔭 JavaScript pro.
+- 🧠 Open-source contributor.
+- 📫 Reach me at: anna.mik.morozova@gmail.com
+- 😄 Pronouns: she/ her/ hers
